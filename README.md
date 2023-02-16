@@ -1,3 +1,5 @@
+[![Test github](https://github.com/ETSISI-EMS/ems2023_lab_1_2_ci_jenkins-YixinXu-UPM/actions/workflows/main.yml/badge.svg)](https://github.com/ETSISI-EMS/ems2023_lab_1_2_ci_jenkins-YixinXu-UPM/actions/workflows/main.yml)
+
 # Pipeline-jenkins-java
 
 Repositorio para el laboratorio de CI con Jenkins
